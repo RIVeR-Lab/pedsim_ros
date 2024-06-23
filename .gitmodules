@@ -4,3 +4,4 @@
 [submodule "2ndparty/spencer_tracking_rviz_plugin"]
 	path = 2ndparty/spencer_tracking_rviz_plugin
 	url = git@github.com:RIVeR-Lab/spencer_tracking_rviz_plugin.git
+	branch = noetic-akmandor
